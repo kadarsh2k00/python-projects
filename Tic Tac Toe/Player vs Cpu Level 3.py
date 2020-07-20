@@ -1,3 +1,4 @@
+# In this mode Cpu tries to win the game.
 import numpy as np
 r=[' ',' ',' ',' ',' ',' ',' ',' ',' ']
 def display():
