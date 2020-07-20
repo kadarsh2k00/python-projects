@@ -1,3 +1,4 @@
+# In this mode Cpu moves randomly without looking to another player.
 import numpy as np
 r=[' ',' ',' ',' ',' ',' ',' ',' ',' ']
 def display():
