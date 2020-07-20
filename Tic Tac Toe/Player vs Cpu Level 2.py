@@ -1,3 +1,4 @@
+# In this mode Cpu stops another player from winning.
 import numpy as np
 r=[' ',' ',' ',' ',' ',' ',' ',' ',' ']
 def display():
